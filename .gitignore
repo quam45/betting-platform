@@ -1,0 +1,17 @@
+# .NET build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Frontend
+node_modules/
+dist/
+
+# Local environment / editor
+.env
+.env.*
+.vscode/
+.idea/
+*.log
